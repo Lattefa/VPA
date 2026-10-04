@@ -1,0 +1,15 @@
+# analysis and figures
+numpy
+pandas
+scipy
+matplotlib>=3.5
+seaborn
+
+# HumanEval similarities
+codebleu
+crosshair-tool
+
+# generation (API calls)
+openai
+groq
+datasets

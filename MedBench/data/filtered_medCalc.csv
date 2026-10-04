@@ -1,0 +1,71 @@
+question_id,calculator_name,output_type,correct_answer,lower_limit,upper_limit,deepseek/deepseek-v3.2-exp,meta-llama/llama-4-scout,microsoft/phi-4,mistralai/ministral-8b-2512,nvidia/nemotron-3-nano-30b-a3b,openai/gpt-oss-120b,openai/gpt-oss-20b,poolside/laguna-s-2.1,qwen/qwen3-8b
+NumQ1,Creatinine Clearance (Cockcroft-Gault Equation),decimal,25.2381,23.97619,26.50001,25.2,25.3,21.5,25.24,25.2,25.2,25.2,25.2,25.2
+NumQ2,Creatinine Clearance (Cockcroft-Gault Equation),decimal,38.0,36.1,39.9,38.0,38.0,37.99,38.0,38.0,38.0,38.0,38.0,38.0
+NumQ3,Creatinine Clearance (Cockcroft-Gault Equation),decimal,57.68059,54.79656,60.56462,57.8,58.0,57.73,73.85,57.5,57.7,57.7,57.8,57.7
+NumQ4,Creatinine Clearance (Cockcroft-Gault Equation),decimal,106.19185,100.88226,111.50144,106.2,106.13,106.16,126.2,106.2,106.2,106.2,106.2,91.1
+NumQ5,Creatinine Clearance (Cockcroft-Gault Equation),decimal,78.12231,74.21619,82.02843,78.2,78.8,93.0,78.2,78.1,78.1,78.1,78.1,78.1
+NumQ6,Creatinine Clearance (Cockcroft-Gault Equation),decimal,83.93895,79.742,88.1359,83.9,83.8,83.9,83.94,83.9,84.0,84.0,83.9,83.9
+NumQ7,Creatinine Clearance (Cockcroft-Gault Equation),decimal,55.625,52.84375,58.40625,55.6,55.43,55.63,55.63,55.6,55.6,55.6,55.6,55.6
+NumQ8,Creatinine Clearance (Cockcroft-Gault Equation),decimal,35.33309,33.56644,37.09974,35.0,35.58,39.8,35.35,35.3,35.3,35.3,35.2,35.3
+NumQ9,Creatinine Clearance (Cockcroft-Gault Equation),decimal,9.67083,9.18729,10.15437,9.8,11.5,9.65,79.9,9.7,9.7,9.7,9.7,9.56
+NumQ10,Creatinine Clearance (Cockcroft-Gault Equation),decimal,63.90115,60.70609,67.09621,63.9,64.37,73.2,73.0,75.2,63.9,63.9,63.9,63.9
+NumQ11,Creatinine Clearance (Cockcroft-Gault Equation),decimal,10.01786,9.51697,10.51875,10.0,21.5,21.43,10.02,10.0,10.0,10.0,10.0,10.0
+NumQ12,Creatinine Clearance (Cockcroft-Gault Equation),decimal,64.81061,61.57008,68.05114,64.8,64.8,64.8,64.8,64.8,64.8,64.8,64.8,64.8
+NumQ13,Creatinine Clearance (Cockcroft-Gault Equation),decimal,86.89835,82.55343,91.24327,87.0,87.2,86.61,134.36,86.8,86.8,87.0,86.8,86.9
+NumQ14,Creatinine Clearance (Cockcroft-Gault Equation),decimal,21.93788,20.84099,23.03477,22.0,22.0,21.95,22.14,21.9,21.9,21.93,21.9,21.9
+NumQ15,Creatinine Clearance (Cockcroft-Gault Equation),decimal,31.84454,30.25231,33.43677,31.9,32.07,30.8,33.8,31.8,31.9,31.9,30.9,31.84
+NumQ16,Creatinine Clearance (Cockcroft-Gault Equation),decimal,52.66849,50.03507,55.30191,53.0,120.0,53.54,52.8,52.7,52.7,52.73,52.7,52.7
+NumQ17,Creatinine Clearance (Cockcroft-Gault Equation),decimal,73.14863,69.4912,76.80606,73.0,73.4,73.09,73.11,73.2,73.1,73.1,73.1,73.1
+NumQ18,Creatinine Clearance (Cockcroft-Gault Equation),decimal,6.07477,5.77103,6.37851,6.1,6.1,6.07,6.11,6.1,6.1,6.07,6.1,6.07
+NumQ19,Creatinine Clearance (Cockcroft-Gault Equation),decimal,40.96504,38.91679,43.01329,41.0,48.3,37.24,43.54,41.0,40.96,40.94,41.0,41.0
+NumQ20,Creatinine Clearance (Cockcroft-Gault Equation),decimal,63.27379,60.1101,66.43748,63.3,63.35,63.25,76.33,63.3,63.3,63.3,63.3,54.4
+NumQ21,CKD-EPI Equations for Glomerular Filtration Rate,decimal,7.45479,7.08205,7.82753,7.5,13.5,11.1,,,7.4,6.9,38.0,33.4
+NumQ22,CKD-EPI Equations for Glomerular Filtration Rate,decimal,46.49254,44.16791,48.81717,46.5,55.0,82.0,71.5,,46.5,45.3,89.6,52.5
+NumQ23,CKD-EPI Equations for Glomerular Filtration Rate,decimal,48.44101,46.01896,50.86306,48.5,100.0,48.2,24.1,75.6,48.5,46.1,,60.0
+NumQ24,CKD-EPI Equations for Glomerular Filtration Rate,decimal,23.42179,22.2507,24.59288,23.3,89.3,29.1,41.5,70.0,23.4,22.6,,3807.0
+NumQ25,CKD-EPI Equations for Glomerular Filtration Rate,decimal,24.32306,23.10691,25.53921,24.0,38.9,73.8,18.1,64.3,24.3,23.3,76.3,71.3
+NumQ26,CKD-EPI Equations for Glomerular Filtration Rate,decimal,70.21721,66.70635,73.72807,70.2,94.1,68.1,72.3,,70.3,67.6,,25.2
+NumQ27,CKD-EPI Equations for Glomerular Filtration Rate,decimal,25.65504,24.37229,26.93779,25.7,41.5,21.3,,,25.6,23.7,23.7,41.6
+NumQ28,CKD-EPI Equations for Glomerular Filtration Rate,decimal,11.09459,10.53986,11.64932,11.1,11.4,6.23,13.3,,10.3,10.3,,75.5
+NumQ29,CKD-EPI Equations for Glomerular Filtration Rate,decimal,4.90379,4.6586,5.14898,4.9,94.6,7.5,0.775,,4.9,4.6,,5.4
+NumQ30,CKD-EPI Equations for Glomerular Filtration Rate,decimal,7.29346,6.92879,7.65813,7.3,69.2,8.06,7.7,,7.3,6.9,57.7,22.7
+NumQ31,CKD-EPI Equations for Glomerular Filtration Rate,decimal,28.13233,26.72571,29.53895,28.1,38.0,36.1,3.7,53.7,28.2,27.0,70.5,24.4
+NumQ32,CKD-EPI Equations for Glomerular Filtration Rate,decimal,6.49484,6.1701,6.81958,6.4,14.2,6.44,10.0,,6.5,6.0,55.9,56.0
+NumQ33,CKD-EPI Equations for Glomerular Filtration Rate,decimal,41.1776,39.11872,43.23648,40.7,34.5,36.1,30.7,,41.4,38.6,71.5,44.0
+NumQ34,CKD-EPI Equations for Glomerular Filtration Rate,decimal,22.44331,21.32114,23.56548,22.5,27.4,29.6,39.8,42.5,22.4,21.0,21.0,38.6
+NumQ35,CKD-EPI Equations for Glomerular Filtration Rate,decimal,68.04278,64.64064,71.44492,67.0,87.1,123.5,36.2,,68.1,66.0,,37.0
+NumQ36,CKD-EPI Equations for Glomerular Filtration Rate,decimal,49.1517,46.69411,51.60928,49.2,52.0,55.6,18.6,,49.2,45.8,69.8,66.7
+NumQ37,CKD-EPI Equations for Glomerular Filtration Rate,decimal,74.28511,70.57085,77.99937,74.0,71.9,80.1,60.2,,74.5,70.2,84.9,78.0
+NumQ38,CKD-EPI Equations for Glomerular Filtration Rate,decimal,43.78544,41.59617,45.97471,44.0,52.0,47.5,33.2,64.5,44.0,41.6,48.2,18.7
+NumQ39,CKD-EPI Equations for Glomerular Filtration Rate,decimal,29.93751,28.44063,31.43439,29.9,38.2,36.1,27.0,,30.0,28.9,84.1,15.2
+NumQ40,CKD-EPI Equations for Glomerular Filtration Rate,decimal,40.43277,38.41113,42.45441,40.5,99.34,44.3,23.3,60.4,40.5,37.9,38.0,0.35
+NumQ41,CHA2DS2-VASc Score for Atrial Fibrillation Stroke Risk,integer,4.0,4.0,4.0,2.0,3.0,4.0,2.0,3.0,2.0,2.0,2.0,0.0
+NumQ42,CHA2DS2-VASc Score for Atrial Fibrillation Stroke Risk,integer,5.0,5.0,5.0,3.0,4.0,3.0,2.0,5.0,5.0,5.0,3.0,3.0
+NumQ43,CHA2DS2-VASc Score for Atrial Fibrillation Stroke Risk,integer,6.0,6.0,6.0,5.0,4.0,5.0,6.0,5.0,4.0,4.0,,4.0
+NumQ44,CHA2DS2-VASc Score for Atrial Fibrillation Stroke Risk,integer,4.0,4.0,4.0,2.0,4.0,4.0,5.0,4.0,2.0,4.0,4.0,2.0
+NumQ45,CHA2DS2-VASc Score for Atrial Fibrillation Stroke Risk,integer,5.0,5.0,5.0,5.0,3.0,5.0,6.0,5.0,5.0,5.0,5.0,4.0
+NumQ46,CHA2DS2-VASc Score for Atrial Fibrillation Stroke Risk,integer,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,3.0,3.0
+NumQ47,CHA2DS2-VASc Score for Atrial Fibrillation Stroke Risk,integer,1.0,1.0,1.0,1.0,1.0,3.0,1.0,1.0,1.0,1.0,1.0,0.0
+NumQ48,CHA2DS2-VASc Score for Atrial Fibrillation Stroke Risk,integer,3.0,3.0,3.0,3.0,3.0,3.0,6.0,4.0,3.0,3.0,3.0,3.0
+NumQ49,CHA2DS2-VASc Score for Atrial Fibrillation Stroke Risk,integer,7.0,7.0,7.0,6.0,6.0,7.0,6.0,8.0,5.0,5.0,6.0,6.0
+NumQ50,CHA2DS2-VASc Score for Atrial Fibrillation Stroke Risk,integer,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+NumQ51,CHA2DS2-VASc Score for Atrial Fibrillation Stroke Risk,integer,1.0,1.0,1.0,3.0,4.0,2.0,3.0,2.0,1.0,1.0,1.0,3.0
+NumQ52,CHA2DS2-VASc Score for Atrial Fibrillation Stroke Risk,integer,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+NumQ53,CHA2DS2-VASc Score for Atrial Fibrillation Stroke Risk,integer,5.0,5.0,5.0,5.0,5.0,4.0,4.0,5.0,5.0,5.0,4.0,5.0
+NumQ54,CHA2DS2-VASc Score for Atrial Fibrillation Stroke Risk,integer,0.0,0.0,0.0,0.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0
+NumQ55,CHA2DS2-VASc Score for Atrial Fibrillation Stroke Risk,integer,0.0,0.0,0.0,1.0,1.0,1.0,3.0,2.0,0.0,1.0,1.0,2.0
+NumQ56,CHA2DS2-VASc Score for Atrial Fibrillation Stroke Risk,integer,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+NumQ57,CHA2DS2-VASc Score for Atrial Fibrillation Stroke Risk,integer,3.0,3.0,3.0,3.0,5.0,3.0,4.0,3.0,3.0,3.0,3.0,3.0
+NumQ58,CHA2DS2-VASc Score for Atrial Fibrillation Stroke Risk,integer,6.0,6.0,6.0,6.0,5.0,6.0,0.0,6.0,6.0,6.0,6.0,6.0
+NumQ59,CHA2DS2-VASc Score for Atrial Fibrillation Stroke Risk,integer,4.0,4.0,4.0,4.0,4.0,4.0,4.0,,4.0,4.0,4.0,3.0
+NumQ60,CHA2DS2-VASc Score for Atrial Fibrillation Stroke Risk,integer,6.0,6.0,6.0,4.0,6.0,3.0,3.0,6.0,4.0,4.0,4.0,4.0
+NumQ61,Mean Arterial Pressure (MAP),decimal,100.0,95.0,105.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+NumQ62,Mean Arterial Pressure (MAP),decimal,56.66667,53.83334,59.5,56.7,56.67,56.67,56.67,56.7,56.7,56.7,56.7,56.7
+NumQ63,Mean Arterial Pressure (MAP),decimal,111.33333,105.76666,116.9,111.3,111.33,111.33,111.33,111.33,111.33,111.33,111.3,111.33
+NumQ64,Mean Arterial Pressure (MAP),decimal,70.0,66.5,73.5,70.0,70.0,70.0,70.0,70.0,70.0,70.0,70.0,70.0
+NumQ65,Mean Arterial Pressure (MAP),decimal,75.33333,71.56666,79.1,75.0,75.3,75.33,75.3,75.3,75.33,75.33,75.3,75.3
+NumQ66,Mean Arterial Pressure (MAP),decimal,78.66667,74.73334,82.6,78.7,79.0,78.67,78.7,78.7,78.7,78.7,78.7,78.7
+NumQ67,Mean Arterial Pressure (MAP),decimal,90.0,85.5,94.5,90.0,90.0,90.0,90.0,90.0,90.0,90.0,90.0,90.0
+NumQ68,Mean Arterial Pressure (MAP),decimal,100.0,95.0,105.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+NumQ69,Mean Arterial Pressure (MAP),decimal,96.0,91.2,100.8,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0
+NumQ70,Mean Arterial Pressure (MAP),decimal,68.33333,64.91666,71.75,68.3,68.3,68.33,68.33,68.33,68.33,68.33,68.3,68.3

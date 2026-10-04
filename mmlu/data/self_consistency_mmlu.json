@@ -1,0 +1,3904 @@
+{
+    "Q2": {
+        "correct_label": "B",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 5,
+                "B": 2,
+                "C": 0,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 2,
+                "B": 5,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 2,
+                "B": 3,
+                "C": 2,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 2,
+                "B": 2,
+                "C": 0,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 2,
+                "B": 5,
+                "C": 0,
+                "D": 0
+            }
+        }
+    },
+    "Q9": {
+        "correct_label": "C",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 3,
+                "C": 3,
+                "D": 1
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 1,
+                "C": 3,
+                "D": 3
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 0,
+                "C": 6,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 6,
+                "C": 1,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 1,
+                "B": 0,
+                "C": 6,
+                "D": 0
+            }
+        }
+    },
+    "Q11": {
+        "correct_label": "A",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 3,
+                "C": 4,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 5,
+                "B": 0,
+                "C": 2,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 1,
+                "B": 0,
+                "C": 6,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 0,
+                "C": 5,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 2,
+                "B": 0,
+                "C": 5,
+                "D": 0
+            }
+        }
+    },
+    "Q17": {
+        "correct_label": "C",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 6,
+                "B": 0,
+                "C": 0,
+                "D": 1
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 3,
+                "B": 1,
+                "C": 3,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 6,
+                "C": 0,
+                "D": 1
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 5,
+                "B": 0,
+                "C": 2,
+                "D": 0
+            }
+        }
+    },
+    "Q21": {
+        "correct_label": "C",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 1,
+                "C": 0,
+                "D": 6
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 4
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 1,
+                "C": 0,
+                "D": 6
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 2,
+                "B": 0,
+                "C": 0,
+                "D": 2
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            }
+        }
+    },
+    "Q27": {
+        "correct_label": "B",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 2,
+                "B": 5,
+                "C": 0,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 1,
+                "B": 6,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 3,
+                "B": 4,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 3,
+                "B": 4,
+                "C": 0,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            }
+        }
+    },
+    "Q43": {
+        "correct_label": "A",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            }
+        }
+    },
+    "Q48": {
+        "correct_label": "A",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            }
+        }
+    },
+    "Q54": {
+        "correct_label": "A",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 2,
+                "B": 0,
+                "C": 5,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 1,
+                "B": 0,
+                "C": 6,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 3,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 0,
+                "C": 6,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            }
+        }
+    },
+    "Q60": {
+        "correct_label": "A",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 0,
+                "C": 6,
+                "D": 1
+            },
+            "openai/gpt-oss-20b": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 5,
+                "B": 0,
+                "C": 0,
+                "D": 1
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 1,
+                "B": 0,
+                "C": 0,
+                "D": 6
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            }
+        }
+    },
+    "Q73": {
+        "correct_label": "A",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 4,
+                "B": 3,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 1,
+                "C": 0,
+                "D": 1
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 6,
+                "B": 1,
+                "C": 0,
+                "D": 0
+            }
+        }
+    },
+    "Q82": {
+        "correct_label": "A",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 5,
+                "C": 2,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 1,
+                "B": 0,
+                "C": 6,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 2,
+                "B": 4,
+                "C": 0,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            }
+        }
+    },
+    "Q86": {
+        "correct_label": "A",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 6,
+                "B": 1,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 5,
+                "B": 2,
+                "C": 0,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 5,
+                "B": 2,
+                "C": 0,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            }
+        }
+    },
+    "Q87": {
+        "correct_label": "B",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 1,
+                "C": 6,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 5,
+                "C": 2,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 4,
+                "B": 0,
+                "C": 3,
+                "D": 0
+            }
+        }
+    },
+    "Q89": {
+        "correct_label": "C",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 5,
+                "C": 2,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 5,
+                "C": 1,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            }
+        }
+    },
+    "Q91": {
+        "correct_label": "D",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 1,
+                "C": 0,
+                "D": 6
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 3,
+                "C": 0,
+                "D": 4
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 1,
+                "C": 0,
+                "D": 5
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 6,
+                "B": 1,
+                "C": 0,
+                "D": 0
+            }
+        }
+    },
+    "Q97": {
+        "correct_label": "A",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 1,
+                "C": 6,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 5,
+                "B": 0,
+                "C": 2,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 0,
+                "C": 1,
+                "D": 6
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 1,
+                "C": 3,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 6,
+                "B": 0,
+                "C": 0,
+                "D": 1
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 4,
+                "B": 3,
+                "C": 0,
+                "D": 0
+            }
+        }
+    },
+    "Q99": {
+        "correct_label": "A",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 1,
+                "B": 2,
+                "C": 0,
+                "D": 4
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "openai/gpt-oss-20b": {
+                "A": 6,
+                "B": 0,
+                "C": 1,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 4,
+                "B": 0,
+                "C": 0,
+                "D": 3
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 1,
+                "B": 0,
+                "C": 5,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            }
+        }
+    },
+    "Q102": {
+        "correct_label": "C",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 1,
+                "B": 0,
+                "C": 6,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 6,
+                "C": 1,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 6,
+                "C": 1,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 1,
+                "B": 3,
+                "C": 3,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 3,
+                "B": 1,
+                "C": 3,
+                "D": 0
+            }
+        }
+    },
+    "Q104": {
+        "correct_label": "C",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 6,
+                "C": 1,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 6,
+                "B": 0,
+                "C": 1,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 2,
+                "B": 0,
+                "C": 5,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 6,
+                "B": 0,
+                "C": 1,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 6,
+                "B": 0,
+                "C": 1,
+                "D": 0
+            }
+        }
+    },
+    "Q105": {
+        "correct_label": "D",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 4,
+                "B": 0,
+                "C": 2,
+                "D": 1
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 1,
+                "C": 2,
+                "D": 4
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            }
+        }
+    },
+    "Q108": {
+        "correct_label": "D",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 0,
+                "C": 5,
+                "D": 2
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 1,
+                "C": 6,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            }
+        }
+    },
+    "Q110": {
+        "correct_label": "A",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 1,
+                "B": 4,
+                "C": 2,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 0,
+                "B": 6,
+                "C": 1,
+                "D": 0
+            }
+        }
+    },
+    "Q115": {
+        "correct_label": "B",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 2,
+                "B": 0,
+                "C": 5,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 3,
+                "B": 3,
+                "C": 1,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            }
+        }
+    },
+    "Q119": {
+        "correct_label": "B",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 4,
+                "B": 3,
+                "C": 0,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 4,
+                "B": 3,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 2,
+                "B": 5,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 5,
+                "B": 2,
+                "C": 0,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 5,
+                "B": 2,
+                "C": 0,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 2,
+                "B": 5,
+                "C": 0,
+                "D": 0
+            }
+        }
+    },
+    "Q123": {
+        "correct_label": "B",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 1,
+                "B": 1,
+                "C": 5,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 6,
+                "C": 0,
+                "D": 1
+            },
+            "openai/gpt-oss-20b": {
+                "A": 1,
+                "B": 0,
+                "C": 4,
+                "D": 2
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 0,
+                "C": 3,
+                "D": 4
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 3,
+                "B": 3,
+                "C": 1,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 6,
+                "C": 1,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 6,
+                "B": 0,
+                "C": 0,
+                "D": 1
+            }
+        }
+    },
+    "Q129": {
+        "correct_label": "B",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 2,
+                "C": 0,
+                "D": 5
+            },
+            "openai/gpt-oss-120b": {
+                "A": 1,
+                "B": 1,
+                "C": 0,
+                "D": 5
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 5
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 6,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            }
+        }
+    },
+    "Q136": {
+        "correct_label": "C",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 2,
+                "B": 0,
+                "C": 3,
+                "D": 2
+            },
+            "openai/gpt-oss-120b": {
+                "A": 4,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 1,
+                "C": 3,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            }
+        }
+    },
+    "Q149": {
+        "correct_label": "D",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 0,
+                "C": 5,
+                "D": 2
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 1,
+                "B": 1,
+                "C": 2,
+                "D": 3
+            },
+            "openai/gpt-oss-120b": {
+                "A": 4,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            }
+        }
+    },
+    "Q154": {
+        "correct_label": "D",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 2,
+                "B": 4,
+                "C": 0,
+                "D": 1
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "openai/gpt-oss-20b": {
+                "A": 3,
+                "B": 1,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 2,
+                "C": 0,
+                "D": 1
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 3,
+                "C": 0,
+                "D": 3
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 5,
+                "C": 0,
+                "D": 1
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 1,
+                "B": 0,
+                "C": 0,
+                "D": 6
+            }
+        }
+    },
+    "Q156": {
+        "correct_label": "D",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 4,
+                "B": 3,
+                "C": 0,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 3,
+                "B": 0,
+                "C": 1,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 4
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 2,
+                "B": 0,
+                "C": 0,
+                "D": 3
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 6,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 6,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            }
+        }
+    },
+    "Q157": {
+        "correct_label": "D",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 5,
+                "B": 0,
+                "C": 2,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 4,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 5,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 6,
+                "B": 1,
+                "C": 0,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 6,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            }
+        }
+    },
+    "Q161": {
+        "correct_label": "D",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 0,
+                "C": 1,
+                "D": 6
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 2,
+                "C": 0,
+                "D": 2
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 2,
+                "C": 0,
+                "D": 1
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 1,
+                "C": 0,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 6,
+                "B": 1,
+                "C": 0,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            }
+        }
+    },
+    "Q181": {
+        "correct_label": "C",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 5,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 3,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            }
+        }
+    },
+    "Q188": {
+        "correct_label": "B",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 1
+            },
+            "openai/gpt-oss-120b": {
+                "A": 5,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 6,
+                "B": 1,
+                "C": 0,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            }
+        }
+    },
+    "Q189": {
+        "correct_label": "D",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 2,
+                "C": 5,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 0,
+                "C": 3,
+                "D": 4
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 0,
+                "C": 1,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 6,
+                "B": 0,
+                "C": 1,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 1,
+                "C": 0,
+                "D": 6
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            }
+        }
+    },
+    "Q213": {
+        "correct_label": "B",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 3,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 3,
+                "C": 0,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 6,
+                "C": 0,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 5,
+                "B": 1,
+                "C": 1,
+                "D": 0
+            }
+        }
+    },
+    "Q226": {
+        "correct_label": "A",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 1,
+                "B": 0,
+                "C": 4,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 0,
+                "C": 4,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 0,
+                "C": 1,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 1,
+                "B": 0,
+                "C": 4,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            }
+        }
+    },
+    "Q228": {
+        "correct_label": "D",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 5,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 5,
+                "C": 0,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 6,
+                "C": 1,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 4,
+                "B": 3,
+                "C": 0,
+                "D": 0
+            }
+        }
+    },
+    "Q237": {
+        "correct_label": "C",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 6,
+                "B": 0,
+                "C": 1,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 1,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 2,
+                "C": 0,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 3,
+                "B": 0,
+                "C": 2,
+                "D": 1
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            }
+        }
+    },
+    "Q247": {
+        "correct_label": "C",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 0,
+                "C": 3,
+                "D": 4
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 6,
+                "C": 0,
+                "D": 1
+            },
+            "openai/gpt-oss-20b": {
+                "A": 1,
+                "B": 0,
+                "C": 4,
+                "D": 2
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 2,
+                "C": 1,
+                "D": 4
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 5,
+                "B": 0,
+                "C": 2,
+                "D": 0
+            }
+        }
+    },
+    "Q254": {
+        "correct_label": "C",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 6,
+                "B": 0,
+                "C": 1,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 1,
+                "C": 6,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 0,
+                "C": 1,
+                "D": 6
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            }
+        }
+    },
+    "Q258": {
+        "correct_label": "A",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 3,
+                "C": 4,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 6,
+                "B": 0,
+                "C": 1,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 1,
+                "C": 6,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 4,
+                "B": 1,
+                "C": 2,
+                "D": 0
+            }
+        }
+    },
+    "Q294": {
+        "correct_label": "D",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 2,
+                "B": 0,
+                "C": 5,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 0,
+                "C": 5,
+                "D": 2
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 0,
+                "C": 4,
+                "D": 3
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 6
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 0,
+                "B": 0,
+                "C": 6,
+                "D": 1
+            }
+        }
+    },
+    "Q315": {
+        "correct_label": "C",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 0,
+                "C": 4,
+                "D": 3
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 0,
+                "C": 1,
+                "D": 6
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 0,
+                "C": 1,
+                "D": 6
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 0,
+                "C": 4,
+                "D": 3
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 0,
+                "C": 1,
+                "D": 5
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 1,
+                "C": 4,
+                "D": 1
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 5,
+                "B": 0,
+                "C": 2,
+                "D": 0
+            }
+        }
+    },
+    "Q332": {
+        "correct_label": "D",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 2,
+                "C": 5,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 2,
+                "C": 0,
+                "D": 5
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 2,
+                "C": 0,
+                "D": 5
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 2,
+                "B": 4,
+                "C": 0,
+                "D": 1
+            }
+        }
+    },
+    "Q335": {
+        "correct_label": "D",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 2,
+                "C": 4,
+                "D": 1
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 0,
+                "C": 4,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            }
+        }
+    },
+    "Q348": {
+        "correct_label": "D",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 3,
+                "C": 4,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 0,
+                "C": 3,
+                "D": 2
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 2,
+                "B": 0,
+                "C": 3,
+                "D": 2
+            }
+        }
+    },
+    "Q358": {
+        "correct_label": "B",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 1,
+                "C": 5,
+                "D": 1
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 5,
+                "C": 2,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 5,
+                "C": 0,
+                "D": 2
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 3,
+                "B": 2,
+                "C": 0,
+                "D": 2
+            }
+        }
+    },
+    "Q362": {
+        "correct_label": "B",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 3,
+                "C": 0,
+                "D": 4
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 4,
+                "C": 0,
+                "D": 1
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 4,
+                "B": 3,
+                "C": 0,
+                "D": 0
+            }
+        }
+    },
+    "Q367": {
+        "correct_label": "C",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 1,
+                "B": 5,
+                "C": 1,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 1,
+                "B": 0,
+                "C": 6,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 6,
+                "B": 0,
+                "C": 1,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 0,
+                "C": 1,
+                "D": 5
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 4,
+                "B": 0,
+                "C": 1,
+                "D": 0
+            }
+        }
+    },
+    "Q378": {
+        "correct_label": "D",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 5,
+                "C": 2,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 6,
+                "C": 1,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 0,
+                "C": 5,
+                "D": 2
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 0,
+                "C": 1,
+                "D": 6
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 0,
+                "C": 2,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 3,
+                "C": 3,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 6,
+                "B": 0,
+                "C": 1,
+                "D": 0
+            }
+        }
+    },
+    "Q416": {
+        "correct_label": "D",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "openai/gpt-oss-120b": {
+                "A": 1,
+                "B": 0,
+                "C": 0,
+                "D": 6
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 6,
+                "B": 0,
+                "C": 0,
+                "D": 1
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            }
+        }
+    },
+    "Q420": {
+        "correct_label": "D",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 1,
+                "B": 6,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 5,
+                "B": 2,
+                "C": 0,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 1,
+                "B": 0,
+                "C": 3,
+                "D": 1
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 1,
+                "C": 6,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 3,
+                "B": 0,
+                "C": 1,
+                "D": 3
+            }
+        }
+    },
+    "Q427": {
+        "correct_label": "D",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 4,
+                "B": 2,
+                "C": 0,
+                "D": 1
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "openai/gpt-oss-20b": {
+                "A": 3,
+                "B": 1,
+                "C": 0,
+                "D": 3
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 3,
+                "B": 0,
+                "C": 0,
+                "D": 3
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 5,
+                "B": 0,
+                "C": 0,
+                "D": 2
+            }
+        }
+    },
+    "Q428": {
+        "correct_label": "D",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 1,
+                "B": 5,
+                "C": 1,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 0,
+                "C": 6,
+                "D": 1
+            },
+            "openai/gpt-oss-20b": {
+                "A": 3,
+                "B": 0,
+                "C": 4,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 1,
+                "B": 0,
+                "C": 5,
+                "D": 1
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 4,
+                "B": 0,
+                "C": 1,
+                "D": 1
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 2,
+                "B": 0,
+                "C": 0,
+                "D": 5
+            }
+        }
+    },
+    "Q436": {
+        "correct_label": "B",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 1,
+                "B": 2,
+                "C": 4,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 1,
+                "C": 0,
+                "D": 4
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 6
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 6
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 4,
+                "C": 3,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            }
+        }
+    },
+        "Q440": {
+        "correct_label": "D",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 1,
+                "B": 0,
+                "C": 0,
+                "D": 6
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 6
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 3,
+                "B": 0,
+                "C": 0,
+                "D": 4
+            }
+        }
+    },
+    "Q445": {
+        "correct_label": "B",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 6,
+                "B": 1,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 5,
+                "B": 2,
+                "C": 0,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 6,
+                "B": 1,
+                "C": 0,
+                "D": 0
+            }
+        }
+    },
+    "Q475": {
+        "correct_label": "B",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 4,
+                "B": 1,
+                "C": 2,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 1,
+                "C": 6,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 6,
+                "B": 1,
+                "C": 0,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 3,
+                "B": 3,
+                "C": 0,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 3,
+                "B": 1,
+                "C": 2,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 5,
+                "B": 2,
+                "C": 0,
+                "D": 0
+            }
+        }
+    },
+    "Q544": {
+        "correct_label": "B",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 2,
+                "B": 4,
+                "C": 1,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "openai/gpt-oss-20b": {
+                "A": 1,
+                "B": 2,
+                "C": 1,
+                "D": 3
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 6,
+                "C": 1,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 2,
+                "C": 4,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 5
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 0,
+                "B": 4,
+                "C": 3,
+                "D": 0
+            }
+        }
+    },
+    "Q545": {
+        "correct_label": "C",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 2,
+                "B": 2,
+                "C": 0,
+                "D": 1
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 0,
+                "C": 5,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 0,
+                "C": 5,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 5,
+                "C": 2,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            }
+        }
+    },
+    "Q561": {
+        "correct_label": "A",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 2,
+                "C": 5,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 0,
+                "C": 1,
+                "D": 6
+            },
+            "openai/gpt-oss-20b": {
+                "A": 1,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 1,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 6,
+                "C": 0,
+                "D": 1
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            }
+        }
+    },
+    "Q563": {
+        "correct_label": "C",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 0,
+                "C": 4,
+                "D": 3
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 3,
+                "B": 0,
+                "C": 4,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 5
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 4
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 4,
+                "C": 0,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            }
+        }
+    },
+
+    "Q619": {
+        "correct_label": "B",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "openai/gpt-oss-120b": {
+                "A": 1,
+                "B": 4,
+                "C": 1,
+                "D": 1
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 2,
+                "C": 0,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 2,
+                "B": 5,
+                "C": 0,
+                "D": 0
+            }
+        }
+    },
+    "Q657": {
+        "correct_label": "B",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 1,
+                "C": 0,
+                "D": 6
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 6,
+                "C": 0,
+                "D": 1
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 1,
+                "B": 6,
+                "C": 0,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            }
+        }
+    },
+    "Q675": {
+        "correct_label": "B",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 3,
+                "C": 4,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 5,
+                "C": 1,
+                "D": 1
+            },
+            "openai/gpt-oss-120b": {
+                "A": 1,
+                "B": 1,
+                "C": 0,
+                "D": 5
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 6,
+                "C": 0,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            }
+        }
+    },
+    "Q731": {
+        "correct_label": "A",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 1,
+                "B": 1,
+                "C": 5,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 6,
+                "B": 0,
+                "C": 1,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 1,
+                "B": 1,
+                "C": 2,
+                "D": 3
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            }
+        }
+    },
+    "Q785": {
+        "correct_label": "D",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 0,
+                "C": 4,
+                "D": 3
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 0,
+                "C": 4,
+                "D": 3
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 0,
+                "C": 3,
+                "D": 4
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 1
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 0,
+                "C": 1,
+                "D": 5
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 5,
+                "B": 0,
+                "C": 1,
+                "D": 1
+            }
+        }
+    },
+    "Q789": {
+        "correct_label": "A",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 4,
+                "C": 3,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 2,
+                "B": 0,
+                "C": 5,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 4,
+                "B": 3,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            }
+        }
+    },
+    "Q799": {
+        "correct_label": "C",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 4,
+                "B": 1,
+                "C": 1,
+                "D": 1
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 1,
+                "B": 1,
+                "C": 0,
+                "D": 4
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 2,
+                "B": 5,
+                "C": 0,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 0,
+                "B": 0,
+                "C": 7,
+                "D": 0
+            }
+        }
+    },
+    "Q841": {
+        "correct_label": "C",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 6,
+                "C": 1,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 5,
+                "C": 2,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 4,
+                "C": 3,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 4,
+                "B": 0,
+                "C": 3,
+                "D": 0
+            }
+        }
+    },
+    "Q848": {
+        "correct_label": "B",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 2,
+                "C": 5,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 0,
+                "C": 2,
+                "D": 5
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 2,
+                "C": 1,
+                "D": 4
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 1,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 3,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            }
+        }
+    },
+    "Q849": {
+        "correct_label": "B",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 4,
+                "B": 0,
+                "C": 0,
+                "D": 3
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 2,
+                "C": 0,
+                "D": 5
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 2
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 6
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 6,
+                "B": 1,
+                "C": 0,
+                "D": 0
+            }
+        }
+    },
+    "Q862": {
+        "correct_label": "A",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 6,
+                "C": 1,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 5,
+                "C": 0,
+                "D": 2
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 5,
+                "C": 0,
+                "D": 2
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 4,
+                "C": 0,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 5,
+                "B": 2,
+                "C": 0,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            }
+        }
+    },
+    "Q874": {
+        "correct_label": "C",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 2,
+                "B": 4,
+                "C": 1,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 6,
+                "B": 1,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 3,
+                "B": 0,
+                "C": 1,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 1,
+                "B": 1,
+                "C": 5,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            }
+        }
+    },
+    "Q882": {
+        "correct_label": "A",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 2,
+                "B": 1,
+                "C": 1,
+                "D": 3
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 5,
+                "C": 0,
+                "D": 2
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 1,
+                "C": 1,
+                "D": 5
+            },
+            "openai/gpt-oss-120b": {
+                "A": 1,
+                "B": 4,
+                "C": 0,
+                "D": 2
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 2,
+                "C": 0,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 5,
+                "B": 2,
+                "C": 0,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            }
+        }
+    },
+    "Q892": {
+        "correct_label": "D",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 2,
+                "B": 0,
+                "C": 5,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 4,
+                "B": 0,
+                "C": 3,
+                "D": 0
+            },
+            "openai/gpt-oss-120b": {
+                "A": 3,
+                "B": 0,
+                "C": 2,
+                "D": 2
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 1,
+                "B": 0,
+                "C": 0,
+                "D": 2
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 6
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            }
+        }
+    },
+    "Q904": {
+        "correct_label": "B",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 4,
+                "C": 1,
+                "D": 2
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 2,
+                "C": 0,
+                "D": 2
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 6,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 1,
+                "B": 4,
+                "C": 0,
+                "D": 2
+            }
+        }
+    },
+    "Q926": {
+        "correct_label": "C",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 2,
+                "B": 2,
+                "C": 2,
+                "D": 1
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 3,
+                "C": 2,
+                "D": 2
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 7,
+                "C": 0,
+                "D": 0
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 0,
+                "C": 2,
+                "D": 3
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 6
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 1,
+                "B": 0,
+                "C": 5,
+                "D": 1
+            }
+        }
+    },
+    "Q934": {
+        "correct_label": "D",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 1,
+                "C": 3,
+                "D": 3
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 1,
+                "B": 0,
+                "C": 2,
+                "D": 3
+            },
+            "openai/gpt-oss-120b": {
+                "A": 1,
+                "B": 0,
+                "C": 1,
+                "D": 2
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 1
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 3,
+                "B": 0,
+                "C": 0,
+                "D": 4
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            }
+        }
+    },
+    "Q945": {
+        "correct_label": "D",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 0,
+                "B": 6,
+                "C": 1,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 0,
+                "B": 1,
+                "C": 0,
+                "D": 6
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 2,
+                "C": 2,
+                "D": 2
+            },
+            "openai/gpt-oss-120b": {
+                "A": 0,
+                "B": 3,
+                "C": 0,
+                "D": 3
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 1,
+                "C": 2,
+                "D": 3
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 1,
+                "C": 0,
+                "D": 6
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 4,
+                "B": 0,
+                "C": 0,
+                "D": 3
+            }
+        }
+    },
+    "Q960": {
+        "correct_label": "A",
+        "models": {
+            "llama-3.1-8b-instant": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "llama-3.3-70b-versatile": {
+                "A": 1,
+                "B": 0,
+                "C": 6,
+                "D": 0
+            },
+            "openai/gpt-oss-20b": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 7
+            },
+            "openai/gpt-oss-120b": {
+                "A": 1,
+                "B": 2,
+                "C": 0,
+                "D": 2
+            },
+            "poolside/laguna-s-2.1:free": {
+                "A": 0,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            },
+            "google/gemma-4-26b-a4b-it:free": {
+                "A": 0,
+                "B": 1,
+                "C": 5,
+                "D": 1
+            },
+            "nvidia/nemotron-3-super-120b-a12b:free": {
+                "A": 7,
+                "B": 0,
+                "C": 0,
+                "D": 0
+            }
+        }
+    }
+}
